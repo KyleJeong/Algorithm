@@ -150,6 +150,4 @@ class Node<T>{
 		this.pre = pre;
 	}
 	
-	
-	
 }
